@@ -1,0 +1,15 @@
+.componentHeader {
+  box-sizing: border-box;
+  padding: 15px 25px;
+  border-bottom: 1px solid #ccc;
+  background: white;
+}
+.componentHeader .picLogo {
+  display: inline-block;
+  vertical-align: middle;
+}
+.componentHeader .headerTitle {
+  display: inline-block;
+  vertical-align: middle;
+  padding-left: 10px;
+}
